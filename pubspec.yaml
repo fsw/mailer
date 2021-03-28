@@ -13,6 +13,7 @@ dependencies:
   mime: '^1.0.0'
   path: '^1.7.0'
   pedantic: '^1.9.2'
+  meta: '^1.3.0'
 
 dev_dependencies:
   args: '^2.0.0'
